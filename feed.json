@@ -10,32 +10,32 @@
     },
     "items": [
         {
+            "id": "https://user-howard.github.io/Class_2_Website/ce-shi-ye-mian.html",
+            "url": "https://user-howard.github.io/Class_2_Website/ce-shi-ye-mian.html",
+            "title": "學習資訊",
+            "summary": "s s s s s my name is",
+            "content_html": "<p>s</p>\n<p>s</p>\n<hr><hr>\n<p>s</p>\n<p>s</p>\n<p>s</p>\n<p>my name is</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"100\" height=\"100\" src=\"https://lds.yphs.tp.edu.tw/yphs/yphs.aspx\" frameborder=\"0\" name=\"公告\" scrolling=\"no\"></iframe></div>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 15.7408%;\"> </td>\n<td style=\"width: 84.4018%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 15.7408%;\"> </td>\n<td style=\"width: 84.4018%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 15.7408%;\"> </td>\n<td style=\"width: 84.4018%;\"> </td>\n</tr>\n</tbody>\n</table>",
+            "author": {
+                "name": "Hao-wei Wu"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-02T20:59:13+08:00",
+            "date_modified": "2022-09-02T21:23:09+08:00"
+        },
+        {
             "id": "https://user-howard.github.io/Class_2_Website/zan-cun-qu.html",
             "url": "https://user-howard.github.io/Class_2_Website/zan-cun-qu.html",
             "title": "暫存區",
             "summary": "暫存區 https://editor.wix.com/html/editor/web/renderer/edit/9211d8b8-df69-4875-9a01-f899620aaf81?metaSiteId=3da3f998-b02a-46a1-9090-37065a8019e3",
-            "content_html": "\n  <p>\n    暫存區\n  </p>\n\n  <p>\n    https://editor.wix.com/html/editor/web/renderer/edit/9211d8b8-df69-4875-9a01-f899620aaf81?metaSiteId=3da3f998-b02a-46a1-9090-37065a8019e3\n  </p>\n\n  <p>\n    \n  </p>",
+            "content_html": "\n  <p>\n    暫存區\n  </p>\n\n  <p>\n    https://editor.wix.com/html/editor/web/renderer/edit/9211d8b8-df69-4875-9a01-f899620aaf81?metaSiteId=3da3f998-b02a-46a1-9090-37065a8019e3\n  </p>",
             "author": {
                 "name": "Hao-wei Wu"
             },
             "tags": [
             ],
             "date_published": "2022-09-02T13:55:08+08:00",
-            "date_modified": "2022-09-02T13:55:08+08:00"
-        },
-        {
-            "id": "https://user-howard.github.io/Class_2_Website/xue-xi-zi-xun.html",
-            "url": "https://user-howard.github.io/Class_2_Website/xue-xi-zi-xun.html",
-            "title": "學習資訊",
-            "summary": "學習資訊",
-            "content_html": "\n  <p>\n    學習資訊\n  </p>",
-            "author": {
-                "name": "Hao-wei Wu"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-09-02T13:52:46+08:00",
-            "date_modified": "2022-09-02T13:52:46+08:00"
+            "date_modified": "2022-09-02T21:13:00+08:00"
         },
         {
             "id": "https://user-howard.github.io/Class_2_Website/huo-dong-zhao-pian.html",
@@ -69,15 +69,15 @@
             "id": "https://user-howard.github.io/Class_2_Website/guan-yu-wo-men.html",
             "url": "https://user-howard.github.io/Class_2_Website/guan-yu-wo-men.html",
             "title": "關於我們",
-            "summary": "關於我們",
-            "content_html": "\n  <p>\n    關於我們\n  </p>\n\n  <p>\n    \n  </p>",
+            "summary": "關於我們 我們班是高一四個班中最特別的一個班，由於這次高一選擇二類的同學較少，而且女生也只有三位，所以我們班為二、三類混班，但是我們上課的活力也不輸其他班，雖然上課的還是有很多人體力不支，但是每到下課鐘一響，大家整個精神就來了，正所謂的：「上課一條蟲，下課一條龍。」 ​在家豪老師的帶領下，我們班月來越熟悉。 我們班的班導是張家豪老師，同時身兼我們班的物理老師，家豪老師是個很認真的老師，上課時總是會放慢步調，並隨時確認同學們是否能跟上，老師講求的是同學們聽得懂，而不是一昧地想要超前課程進度，而且老師有時還會再題與題之間作補充，幫助我們應對難題。家豪老師總是以溫柔的態度對待我們班的每一個學生，包容東西經常丟三落四的我們，而且在班會課的時候老師還會讓我們邊看電影邊學習物理，真有趣！",
+            "content_html": "\n  <p>\n    關於我們\n  </p>\n\n    <h3>\n      同學\n    </h3>\n\n  <p>\n    我們班是高一四個班中最特別的一個班，由於這次高一選擇二類的同學較少，而且女生也只有三位，所以我們班為二、三類混班，但是我們上課的活力也不輸其他班，雖然上課的還是有很多人體力不支，但是每到下課鐘一響，大家整個精神就來了，正所謂的：「上課一條蟲，下課一條龍。」<br>​在家豪老師的帶領下，我們班月來越熟悉。\n  </p>\n\n    <h3 id=\"---------\">\n      班導         張家豪老師\n    </h3>\n\n  <p>\n    我們班的班導是張家豪老師，同時身兼我們班的物理老師，家豪老師是個很認真的老師，上課時總是會放慢步調，並隨時確認同學們是否能跟上，老師講求的是同學們聽得懂，而不是一昧地想要超前課程進度，而且老師有時還會再題與題之間作補充，幫助我們應對難題。家豪老師總是以溫柔的態度對待我們班的每一個學生，包容東西經常丟三落四的我們，而且在班會課的時候老師還會讓我們邊看電影邊學習物理，真有趣！\n  </p>",
             "author": {
                 "name": "Hao-wei Wu"
             },
             "tags": [
             ],
             "date_published": "2022-09-02T13:51:50+08:00",
-            "date_modified": "2022-09-02T13:51:50+08:00"
+            "date_modified": "2022-09-02T20:56:51+08:00"
         }
     ]
 }
