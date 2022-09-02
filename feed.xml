@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Class 2 Page</title>
+    <link href="https://user-howard.github.io/Class_2_Website/feed.xml" rel="self" />
+    <link href="https://user-howard.github.io/Class_2_Website" />
+    <updated>2022-09-02T13:55:08+08:00</updated>
+    <author>
+        <name>Hao-wei Wu</name>
+    </author>
+    <id>https://user-howard.github.io/Class_2_Website</id>
+
+    <entry>
+        <title>暫存區</title>
+        <author>
+            <name>Hao-wei Wu</name>
+        </author>
+        <link href="https://user-howard.github.io/Class_2_Website/zan-cun-qu.html"/>
+        <id>https://user-howard.github.io/Class_2_Website/zan-cun-qu.html</id>
+
+        <updated>2022-09-02T13:55:08+08:00</updated>
+            <summary>
+                <![CDATA[
+                    暫存區 https://editor.wix.com/html/editor/web/renderer/edit/9211d8b8-df69-4875-9a01-f899620aaf81?metaSiteId=3da3f998-b02a-46a1-9090-37065a8019e3
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    暫存區
+  </p>
+
+  <p>
+    https://editor.wix.com/html/editor/web/renderer/edit/9211d8b8-df69-4875-9a01-f899620aaf81?metaSiteId=3da3f998-b02a-46a1-9090-37065a8019e3
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>學習資訊</title>
+        <author>
+            <name>Hao-wei Wu</name>
+        </author>
+        <link href="https://user-howard.github.io/Class_2_Website/xue-xi-zi-xun.html"/>
+        <id>https://user-howard.github.io/Class_2_Website/xue-xi-zi-xun.html</id>
+
+        <updated>2022-09-02T13:52:46+08:00</updated>
+            <summary>
+                <![CDATA[
+                    學習資訊
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    學習資訊
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>活動照片</title>
+        <author>
+            <name>Hao-wei Wu</name>
+        </author>
+        <link href="https://user-howard.github.io/Class_2_Website/huo-dong-zhao-pian.html"/>
+        <id>https://user-howard.github.io/Class_2_Website/huo-dong-zhao-pian.html</id>
+
+        <updated>2022-09-02T13:52:26+08:00</updated>
+            <summary>
+                <![CDATA[
+                    活動照片
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    活動照片
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>最新公告</title>
+        <author>
+            <name>Hao-wei Wu</name>
+        </author>
+        <link href="https://user-howard.github.io/Class_2_Website/zui-xin-gong-gao.html"/>
+        <id>https://user-howard.github.io/Class_2_Website/zui-xin-gong-gao.html</id>
+
+        <updated>2022-09-02T13:52:07+08:00</updated>
+            <summary>
+                <![CDATA[
+                    最新公告
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    最新公告
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>關於我們</title>
+        <author>
+            <name>Hao-wei Wu</name>
+        </author>
+        <link href="https://user-howard.github.io/Class_2_Website/guan-yu-wo-men.html"/>
+        <id>https://user-howard.github.io/Class_2_Website/guan-yu-wo-men.html</id>
+
+        <updated>2022-09-02T13:51:50+08:00</updated>
+            <summary>
+                <![CDATA[
+                    關於我們
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    關於我們
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

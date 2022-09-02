@@ -1,0 +1,83 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Class 2 Page",
+    "description": "",
+    "home_page_url": "https://user-howard.github.io/Class_2_Website",
+    "feed_url": "https://user-howard.github.io/Class_2_Website/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Hao-wei Wu"
+    },
+    "items": [
+        {
+            "id": "https://user-howard.github.io/Class_2_Website/zan-cun-qu.html",
+            "url": "https://user-howard.github.io/Class_2_Website/zan-cun-qu.html",
+            "title": "暫存區",
+            "summary": "暫存區 https://editor.wix.com/html/editor/web/renderer/edit/9211d8b8-df69-4875-9a01-f899620aaf81?metaSiteId=3da3f998-b02a-46a1-9090-37065a8019e3",
+            "content_html": "\n  <p>\n    暫存區\n  </p>\n\n  <p>\n    https://editor.wix.com/html/editor/web/renderer/edit/9211d8b8-df69-4875-9a01-f899620aaf81?metaSiteId=3da3f998-b02a-46a1-9090-37065a8019e3\n  </p>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Hao-wei Wu"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-02T13:55:08+08:00",
+            "date_modified": "2022-09-02T13:55:08+08:00"
+        },
+        {
+            "id": "https://user-howard.github.io/Class_2_Website/xue-xi-zi-xun.html",
+            "url": "https://user-howard.github.io/Class_2_Website/xue-xi-zi-xun.html",
+            "title": "學習資訊",
+            "summary": "學習資訊",
+            "content_html": "\n  <p>\n    學習資訊\n  </p>",
+            "author": {
+                "name": "Hao-wei Wu"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-02T13:52:46+08:00",
+            "date_modified": "2022-09-02T13:52:46+08:00"
+        },
+        {
+            "id": "https://user-howard.github.io/Class_2_Website/huo-dong-zhao-pian.html",
+            "url": "https://user-howard.github.io/Class_2_Website/huo-dong-zhao-pian.html",
+            "title": "活動照片",
+            "summary": "活動照片",
+            "content_html": "\n  <p>\n    活動照片\n  </p>",
+            "author": {
+                "name": "Hao-wei Wu"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-02T13:52:26+08:00",
+            "date_modified": "2022-09-02T13:52:26+08:00"
+        },
+        {
+            "id": "https://user-howard.github.io/Class_2_Website/zui-xin-gong-gao.html",
+            "url": "https://user-howard.github.io/Class_2_Website/zui-xin-gong-gao.html",
+            "title": "最新公告",
+            "summary": "最新公告",
+            "content_html": "\n  <p>\n    最新公告\n  </p>",
+            "author": {
+                "name": "Hao-wei Wu"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-02T13:52:07+08:00",
+            "date_modified": "2022-09-02T13:52:07+08:00"
+        },
+        {
+            "id": "https://user-howard.github.io/Class_2_Website/guan-yu-wo-men.html",
+            "url": "https://user-howard.github.io/Class_2_Website/guan-yu-wo-men.html",
+            "title": "關於我們",
+            "summary": "關於我們",
+            "content_html": "\n  <p>\n    關於我們\n  </p>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Hao-wei Wu"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-02T13:51:50+08:00",
+            "date_modified": "2022-09-02T13:51:50+08:00"
+        }
+    ]
+}

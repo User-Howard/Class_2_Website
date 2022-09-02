@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://user-howard.github.io/Class_2_Website/sitemap.xml

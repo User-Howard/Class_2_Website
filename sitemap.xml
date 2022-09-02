@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://user-howard.github.io/Class_2_Website/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://user-howard.github.io/Class_2_Website/</loc>
+</url>
+<url>
+<loc>https://user-howard.github.io/Class_2_Website/guan-yu-wo-men.html</loc>
+<lastmod>2022-09-02T13:51:50+08:00</lastmod>
+</url>
+<url>
+<loc>https://user-howard.github.io/Class_2_Website/huo-dong-zhao-pian.html</loc>
+<lastmod>2022-09-02T13:52:26+08:00</lastmod>
+</url>
+<url>
+<loc>https://user-howard.github.io/Class_2_Website/xue-xi-zi-xun.html</loc>
+<lastmod>2022-09-02T13:52:46+08:00</lastmod>
+</url>
+<url>
+<loc>https://user-howard.github.io/Class_2_Website/zan-cun-qu.html</loc>
+<lastmod>2022-09-02T13:55:08+08:00</lastmod>
+</url>
+<url>
+<loc>https://user-howard.github.io/Class_2_Website/zui-xin-gong-gao.html</loc>
+<lastmod>2022-09-02T13:52:07+08:00</lastmod>
+</url>
+</urlset>
