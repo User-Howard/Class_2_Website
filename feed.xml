@@ -3,7 +3,7 @@
     <title>Class 2 Page</title>
     <link href="https://user-howard.github.io/Class_2_Website/feed.xml" rel="self" />
     <link href="https://user-howard.github.io/Class_2_Website" />
-    <updated>2022-10-13T18:54:50+08:00</updated>
+    <updated>2022-10-13T19:01:26+08:00</updated>
     <author>
         <name>Hao-wei Wu</name>
     </author>
@@ -100,7 +100,7 @@
         <link href="https://user-howard.github.io/Class_2_Website/zui-xin-gong-gao-2.html"/>
         <id>https://user-howard.github.io/Class_2_Website/zui-xin-gong-gao-2.html</id>
 
-        <updated>2022-10-13T18:54:50+08:00</updated>
+        <updated>2022-10-13T19:01:26+08:00</updated>
             <summary>
                 <![CDATA[
                     考試行事曆一覽 https://replit.com/@UserHoward/Fang-Wen-Ji-Chu-Zi-Liao-Ku#main.py R
@@ -112,7 +112,7 @@
 <div class="post__iframe"><iframe loading="lazy" width="930" height="600" style="border-width: 0;" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23000000&amp;ctz=Asia%2FTaipei&amp;showTitle=0&amp;title=%E4%BA%8C%E7%8F%AD%E8%80%83%E8%A9%A6%E8%A1%8C%E4%BA%8B%E6%9B%86&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showTz=0&amp;showCalendars=0&amp;src=NTRkYzM1MjI5NzEwNTY4ZDkwYWY1MjE4YjhlYjllNTMyNTJmYzJlMzU2Y2M1NDA3MTlmM2U3MGI4NzVlMjYwMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%233F51B5" frameborder="0" scrolling="no"></iframe></div>
 <p>https://replit.com/@UserHoward/Fang-Wen-Ji-Chu-Zi-Liao-Ku#main.py</p>
 <p> </p>
-<div class="post__iframe"><iframe loading="lazy" width="1000" height="1374" style="width: 1000px; height: 1374px;" title="嵌入式repl" src="https://replit.com/@UserHoward/Fang-Wen-Ji-Chu-Zi-Liao-Ku?lite=icon_title_nologo&amp;theme=replitLight" scrolling="no" frameborder="no" sandbox="allow-same-origin allow-forms allow-popups allow-popups-to-escape-sandbox allow-modals allow-downloads allow-downloads-without-user-activation allow-presentation allow-orientation-lock allow-scripts" allow="accelerometer; ambient-light-sensor; autoplay; battery; camera; display-capture; encrypted-media; execution-while-not-rendered; execution-while-out-of-viewport; fullscreen; gamepad; geolocation; gyroscope; layout-animations; legacy-image-formats; magnetometer; microphone; midi; navigation-override; oversized-images; payment; picture-in-picture; publickey-credentials; speaker-selection; sync-xhr; unoptimized-images; unsized-media; usb; screen-wake-lock; web-share; xr-spatial-tracking" allowfullscreen="allowfullscreen" class="jsx-39794e074b5d5e33 "></iframe></div>
+<div class="post__iframe"><iframe loading="lazy" width="1000" height="1374" title="嵌入式repl" src="https://replit.com/@UserHoward/Fang-Wen-Ji-Chu-Zi-Liao-Ku?lite=icon_title_nologo&amp;theme=replitLight" frameborder="no" allowfullscreen="allowfullscreen"></iframe></div>
 <p>R</p>
             ]]>
         </content>
